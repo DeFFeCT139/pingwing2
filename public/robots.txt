@@ -1,0 +1,7 @@
+#Разрешаем роботу Google индексацию всего сайта
+User-agent: Googlebot
+Allow: /
+
+#Разрешаем роботу Яндекса индексацию всего сайта
+User-agent: Yandex
+Allow: /
