@@ -1,0 +1,382 @@
+{
+    "ru":{
+        "header": {
+            "home": "О НАС",
+            "contact": "КОНТАКТЫ",
+            "prtfolio": "ПОРТФОЛИО",
+            "konsul": "КОНСУЛЬТАЦИЯ"
+        },
+        "paralax": "КРЕАТИВНО, КРУТО И СВЕЖО",
+        "form": {
+            "title": "Как вас зовут?",
+            "input": "Ваше имя",
+            "title2": "Как с Вами связаться?",
+            "input2": "e-mail, тел. или TG",
+            "btn": "ПОДТВЕРДИТЬ",
+            "desc": "Спасибо, с Вами свяжется наш менеджер"
+        },
+        "main":{
+            "contact":{
+                "titlePage": "Контакты",
+                "title":"Контакты",
+                "desc":"Если Вы хотите воспользоваться нашими услугами, запишитесь на бесплатную консультацию, заполнив форму, либо напишите нам в Telegram"
+            },
+            "about":{
+                "titlePage": "— Креативная студия по разработке цифровых решений",
+                "title":"Мы – digital агенство полного цикла",
+                "desc":"Наша команда рада помочь развитию вашего бизнеса",
+                "btn":"НАШИ ПРОЕКТЫ",
+                "slider":{
+                    "site":{
+                        "title":"Сайты",
+                        "desc":"Если у вашего бизнеса еще нет веб-сайта, то пришло время его создать. Сайт проинформирует пользователя о вашей компании, а также отобразит информацию об услугах или продуктах.",
+                        "btns":{
+                            "one":"Удобные",
+                            "two":"Оптимизированные",
+                            "three":"Стильные",
+                            "for":"Конкурентоспособные",
+                            "free":"БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ"
+                        }
+                    },
+                    "app":{
+                        "title":"Приложения",
+                        "desc":"Если вашей компании требуется индивидуальное решение. Наша команда имеет опыт разработки мобильных приложений, которые улучшат клиентоориентированность.",
+                        "btns":{
+                            "one":"Удобные",
+                            "two":"Индивидуальные",
+                            "three":"Креативные",
+                            "for":"Производительные",
+                            "free":"БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ"
+                        }
+                    },
+                    "bot":{
+                        "title":"Боты",
+                        "desc":"Если вашему бизнесу необходим сотрудник с искусственным интеллектом, который сможет оперативно помогать пользователям, наша команда создаст для вас Telegram, VK или Discord бота.",
+                        "btns":{
+                            "one":"Удобные",
+                            "two":"Оптимизированные",
+                            "three":"Умные",
+                            "for":"Стабильные",
+                            "free":"БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ"
+                        }
+                    },
+                    "smm":{
+                        "title":"SMM",
+                        "desc":"Хотите продвигать аккуанты в соц. сетях? Наши маркетологи составят стратегию продвижения и упакуют ваш профиль “под ключ”. Мы знаем, как привлечь клиентов без больших затрат на рекламу.",
+                        "btns":{
+                            "one":"Узнаваемость",
+                            "two":"Актив",
+                            "three":"Продажи",
+                            "for":"Личный бренд",
+                            "free":"БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "en":{
+        "header": {
+            "home": "ABOUT US",
+            "contact": "CONTACTS",
+            "prtfolio": "PORTFOLIO",
+            "konsul": "GET IN TOUCH"
+        },
+        "paralax": "CREATIVE, COOL AND FRESHLY",
+        "form": {
+            "title": "What is your name?",
+            "input": "Name",
+            "title2": "How can we contact you?",
+            "input2": "e-mail or phone",
+            "btn": "CONFIRM",
+            "desc": "Thank you, our manager will contact you"
+        },
+        "main":{
+            "contact":{
+                "titlePage": "Contacts",
+                "title":"Contacts",
+                "desc":"If you want to use our services, sign up for a free consultation by filling out the form, or get in touch with us in Telegram"
+            },
+            "about":{
+                "titlePage": "— Creative Studio for Digital Solutions Development",
+                "title":"We are full-stack digital agency",
+                "desc":"Our team is happy to help develop your business",
+                "btn":"OUR PROJECTS",
+                "slider":{
+                    "site":{
+                        "title":"Websites",
+                        "desc":"If your business doesn't have a website yet, then it's time to create one. The site will inform the users about your company, as well as display information about services or products.",
+                        "btns":{
+                            "one":"Convenient",
+                            "two":"Optimized",
+                            "three":"Stylish",
+                            "for":"Competitive",
+                            "free":"FREE CONSULTATION"
+                        }
+                    },
+                    "app":{
+                        "title":"Applications",
+                        "desc":"If your company needs an individual solution. Our team has experience in developing mobile applications that will improve customer orientation.",
+                        "btns":{
+                            "one":"Convenient",
+                            "two":"Individual",
+                            "three":"Creative",
+                            "for":"Productive",
+                            "free":"FREE CONSULTATION"
+                        }
+                    },
+                    "bot":{
+                        "title":"Bots",
+                        "desc":"If your business needs an employee with artificial intelligence who can quickly help users, our team will create a Telegram, VK or Discord bot for you.",
+                        "btns":{
+                            "one":"Convenient",
+                            "two":"Optimized",
+                            "three":"Smart",
+                            "for":"Stable",
+                            "free":"FREE CONSULTATION"
+                        }
+                    },
+                    "smm":{
+                        "title":"SMM",
+                        "desc":"Do you want to promote social media accounts? Our marketers will draw up a promotion strategy and package your profile 'turnkey'. We know how to attract customers without spending a lot on advertising.",
+                        "btns":{
+                            "one":"Recognition",
+                            "two":"Activity",
+                            "three":"Sales",
+                            "for":"Personal brand",
+                            "free":"FREE CONSULTATION"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "ger":{
+        "header": {
+            "home": "ÜBER UNS",
+            "contact": "KONTAKTEN",
+            "prtfolio": "PORTFOLIO",
+            "konsul": "GET IN TOUCH"
+        },
+        "paralax": "KREATIV, COOL UND FRESH",
+        "form": {
+            "title": "Wie heissen Sie?",
+            "input": "Name",
+            "title2": "Wie kontaktiere ich Sie?",
+            "input2": "e-mail oder telefon",
+            "btn": "BESTÄTIGEN",
+            "desc": "Vielen Dank, unser Manager wird sich mit Ihnen in Verbindung setzen"
+        },
+        "main":{
+            "contact":{
+                "titlePage": "Kontakten",
+                "title":"Kontakten",
+                "desc":"Wenn Sie unsere Dienstleistungen Ausnutzen möchten, Melden Sie sich auf unseren Gratis Beratungsgespräch an, füllen Sie das Formular aus, oder Kontaktieren Sie uns über Telegram"
+            },
+            "about":{
+                "titlePage": "— Kreatives Studio für die Entwicklung digitaler Lösungen",
+                "title":"Wir. Digital Agentur des vollen Zykluses",
+                "desc":"Unser Team Hilft Ihnen Gerne dabei, Ihr Geschäft Aufzubauen",
+                "btn":"UNSERE PROJEKTE",
+                "slider":{
+                    "site":{
+                        "title":"Webseiten",
+                        "desc":"Wenn Ihr Business noch keine Webseite hat, dann wird es Zeit eine zu Erstellen. Die Seite Informiert den Betrieber über Ihr Unternehmen, und Zeigt die Information über unser Dienst oder Produkten.",
+                        "btns":{
+                            "one":"Praktisch",
+                            "two":"Optimiert",
+                            "three":"Stillvoll",
+                            "for":"Wettbewerbsfähig",
+                            "free":"GRATIS BERATUNGSGESPRÄCH"
+                        }
+                    },
+                    "app":{
+                        "title":"Apps",
+                        "desc":"Wenn Ihr Unternehmen eine Individuelle Aufgabe hat. Unser Team hat Erfahrung in der Entwicklung von Mobilen Apps, welche Ihre Kundenorientieru.",
+                        "btns":{
+                            "one":"Praktisch",
+                            "two":"Individuelle",
+                            "three":"Kreativ",
+                            "for":"Produktiv",
+                            "free":"GRATIS BERATUNGSGESPRÄCH"
+                        }
+                    },
+                    "bot":{
+                        "title":"Bots",
+                        "desc":"Wenn Ihr Business einen Mitarbeiter mit einem Künstlichen Intelekt braucht, welcher Operativ den Nutzern Helfen kann, unser Team Erstellt für Sie einen Telegram, VK oder Discord Bot.",
+                        "btns":{
+                            "one":"Praktisch",
+                            "two":"Optimiert",
+                            "three":"Smart",
+                            "for":"Stabil",
+                            "free":"GRATIS BERATUNGSGESPRÄCH"
+                        }
+                    },
+                    "smm":{
+                        "title":"SMM",
+                        "desc":"Wollen Sie Ihre Accounts in den Sozialen Medien Pushen? Unsere Markter Erstellen für Sie eine Strategie für die Werbaktionen und Packen Ihr Profil 'turnkey' wir wissen wie man die Kunden Anlocken kann ohne viel Geld für Werbung auszugeben.",
+                        "btns":{
+                            "one":"Erkennung",
+                            "two":"Aktivität",
+                            "three":"Verkäufe",
+                            "for":"Persönliche Marke",
+                            "free":"GRATIS BERATUNGSGESPRÄCH"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "ar":{
+        "header": {
+            "home": "ՄԵՐ ՄԱՍԻՆ",
+            "contact": "ԿԱՊ",
+            "prtfolio": "ՊՈՐՏՖՈԼԻՈ",
+            "konsul": "ԿՈՆՍՈՒԼՏԱՑԻԱ"
+        },
+        "paralax": "ԿՐԵԱՏԻՎ, ԳԵՂԵՑԻԿ և ԹԱՐՄ",
+        "form": {
+            "title": "Ինչ է ձեր անունը?",
+            "input": "Անուն",
+            "title2": "Ինչպե՞ս կարող ենք կապվել ձեզ հետ:",
+            "input2": "e-mail, համար կամ TG",
+            "btn": "ՀԱՍՏԱՏԵԼ",
+            "desc": "Շնորհակալություն, մեր մենեջեր կկապնվի ձեզ հետ"
+        },
+        "main":{
+            "contact":{
+                "titlePage": "Կապ",
+                "title":"ԿԱՊ",
+                "desc":"Եթե ցանկանում եք օգտվել մեր ծառայություններից, գրանցվեք անվճար խորհրդատվության համար՝ լրացնելով ձևաթուղթը կամ կապվեք մեզ հետ Telegram-ում։"
+            },
+            "about":{
+                "titlePage": "— Կրեատիվ ստուդիա ձեր բիզնեսի համար",
+                "title":"Մենք լիարժեք թվային շրջափուլի ներկայացուցիչ ենք",
+                "desc":"Մեր թիմն ուրախ է աջակցել ձեր բիզնեսի զարգացմանը",
+                "btn":"ՄԵՐ ՊՌՈԵԿՏՆԵՐԸ",
+                "slider":{
+                    "site":{
+                        "title":"Կայքեր",
+                        "desc":"Եթե ձեր բիզնեսը դեռ չունի կայք, ապա ժամանակն է ստեղծելու այն: Կայքէջն օգտատիրոջը կտեղեկացնի ձեր ընկերության մասին, ինչպես նաև կներկայացնի տեղեկատվություն ծառայությունների կամ ապրանքների մասին:",
+                        "btns":{
+                            "one":"Հարմարավետ",
+                            "two":"Օպտիմիզացված",
+                            "three":"Նորաոճ",
+                            "for":"Մրցունակ",
+                            "free":"ԱՆՎՃԱՐ ԽՈՐՀՐԴԱՏՎՈՒԹՅՈՒՆ"
+                        }
+                    },
+                    "app":{
+                        "title":"Ծրագրեր",
+                        "desc":"Եթե ձեր ընկերությանը հատուկ լուծում է պետք: Մեր թիմն ունի բջջային հավելվածների մշակման փորձ, որոնք ձեզ կօգնեն առավելագույնս բարելավելու հաճախորդների պահանջմունքները:",
+                        "btns":{
+                            "one":"Հարմարավետ",
+                            "two":"Անհատական",
+                            "three":"Կրեատիվ",
+                            "for":"Արդյունավետ",
+                            "free":"ԱՆՎՃԱՐ ԽՈՐՀՐԴԱՏՎՈՒԹՅՈՒՆ"
+                        }
+                    },
+                    "bot":{
+                        "title":"Բոտեր",
+                        "desc":"Եթե ձեր բիզնեսին անհրաժեշտ է թվային օգնական, ով կարող է արագ օգնել օգտատերերին, մեր թիմը ձեզ համար կստեղծի Telegram, VK կամ Discord բոտ:",
+                        "btns":{
+                            "one":"Հարմարավետ",
+                            "two":"Օպտիմիզացված",
+                            "three":"Խելացի",
+                            "for":"Կայուն",
+                            "free":"ԱՆՎՃԱՐ ԽՈՐՀՐԴԱՏՎՈՒԹՅՈՒՆ"
+                        }
+                    },
+                    "smm":{
+                        "title":"ՍՄՄ",
+                        "desc":"Ցանկանու ՞ մ եք սոցիալական կայքերոմ առավել տեսանելի դարձնել ձեր կայքէջը: Մեր մարքեթոլոգները կմշակեն անհրաժեշտ ռազմավարություն՝ ամբողջացնելով ձեր պրոֆիլը: Մենք գիտենք, թե ինչպես գրավել հաճախորդներին՝ առանց գովազդի վրա մեծ գումար ծախսելու:",
+                        "btns":{
+                            "one":"Ճանաչում",
+                            "two":"Գործունեություն",
+                            "three":"Վաճառք",
+                            "for":"Անձնական ապրանքանիշ",
+                            "free":"ԱՆՎՃԱՐ ԽՈՐՀՐԴԱՏՎՈՒԹՅՈՒՆ"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "fr":{
+        "header": {
+            "home": "À PROPOS",
+            "contact": "CONTACTS",
+            "prtfolio": "PORTFOLIO",
+            "konsul": "Contactez nous"
+        },
+        "paralax": "CRÉATIF, COOL ET INNOVANT",
+        "form": {
+            "title": "Quel est votre nom?",
+            "input": "Votre nom",
+            "title2": "Comment on vous contacte?",
+            "input2": "e-mail ou téléphone",
+            "btn": "CONFIRMER",
+            "desc": "Merci, notre responsable vous contactera"
+        },
+        "main":{
+            "contact":{
+                "titlePage": "Contacts",
+                "title":"Contacts",
+                "desc":"Si vous avez besoin de nos services, inscrivez - vous pour une consultation gratuite en remplissant le formulaire, ou contactez-nous via Telegram"
+            },
+            "about":{
+                "titlePage": "— Studio créatif pour le développement de solutions numériques",
+                "title":"Nous sommes une agence digitale complète",
+                "desc":"Notre équipe est heureuse de vous aider à développer votre entreprise",
+                "btn":"NOS PROJETS",
+                "slider":{
+                    "site":{
+                        "title":"Websites",
+                        "desc":"Si votre entreprise n'a pas encore de site, il est temps d'en créer un. Ce site permettra aux utilisateurs de recevoir des informations de votre entreprise ainsi que de proposer les détails de vos services et produits.",
+                        "btns":{
+                            "one":"Pratique",
+                            "two":"Optimisé",
+                            "three":"Élégant",
+                            "for":"Compétitive",
+                            "free":"CONSULTATION GRATUITE"
+                        }
+                    },
+                    "app":{
+                        "title":"Applications",
+                        "desc":"Si votre entreprise a besoin d'une solution individuelle. Notre équipe a de l'expérience dans le développement d'applications mobiles qui amélioreront l'orientation client.",
+                        "btns":{
+                            "one":"Pratique",
+                            "two":"Individual",
+                            "three":"Créatif",
+                            "for":"Productif",
+                            "free":"CONSULTATION GRATUITE"
+                        }
+                    },
+                    "bot":{
+                        "title":"Bots",
+                        "desc":"Si votre entreprise a besoin d'un employé doté d'une intelligence artificielle capable d'aider rapidement les utilisateurs, notre équipe créera pour vous un bot Telegram, VK ou Discord.",
+                        "btns":{
+                            "one":"Pratique",
+                            "two":"Optimisé",
+                            "three":"Intelligent",
+                            "for":"Stable",
+                            "free":"CONSULTATION GRATUITE"
+                        }
+                    },
+                    "smm":{
+                        "title":"SMM",
+                        "desc":"Voulez-vous promouvoir vos médias sociaux? Nos spécialistes du marketing élaboreront une stratégie de promotion et le rendront directement utilisable. Nous savons comment attirer les clients sans dépenser beaucoup en publicité.",
+                        "btns":{
+                            "one":"Reconnaissance",
+                            "two":"Activité",
+                            "three":"Ventes",
+                            "for":"Marque personnelle",
+                            "free":"CONSULTATION GRATUITE"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
